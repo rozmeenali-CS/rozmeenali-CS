@@ -1,4 +1,4 @@
-# Hi there, I'm [Rozmeen Ali] 👋
+# Hi there, I'm Rozmeen Ali 👋
 
 🚀 About Me
 - Passionate software engineer & automation tester
@@ -20,5 +20,5 @@
 
 📬 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/rozmeen-ali-62b573357/)  
-- [Email](mailto: rozmeenali413@gmail.com)
+- [Email]( rozmeenali413@gmail.com)
 
