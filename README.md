@@ -1,12 +1,24 @@
-- 👋 Hi, I’m @rozmeenali-CS
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there, I'm [Rozmeen Ali] 👋
 
-<!---
-rozmeenali-CS/rozmeenali-CS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 About Me
+- Passionate software engineer & automation tester
+- Love building scalable web applications and improving software quality through automation
+
+💻 Tech Stack
+- Languages: JavaScript, PHP, Python  
+- Frameworks: Laravel, React.js, Cypress, Selenium  
+- Tools: Git, Docker, Postman, JIRA
+
+📚 Currently Learning
+- Advanced test automation strategies
+- API contract testing & CI/CD pipelines
+
+🌟 Interests
+- Test automation frameworks
+- Web application development
+- Open-source contributions
+
+📬 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/rozmeen-ali-62b573357/)  
+- [Email](mailto: rozmeenali413@gmail.com)
+
